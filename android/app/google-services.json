@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132569297479",
+    "project_id": "krtaa-vendor-app",
+    "storage_bucket": "krtaa-vendor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132569297479:android:5bc0887e4226dc30d73762",
+        "android_client_info": {
+          "package_name": "com.example.krta_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132569297479-fvst1na4rl4tk1tc0tm3ou9mdppa731i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iOmYrF6gHPEojS-07Vl0iOj2k3g2Vbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132569297479-fvst1na4rl4tk1tc0tm3ou9mdppa731i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
